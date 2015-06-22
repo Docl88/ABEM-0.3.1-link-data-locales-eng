@@ -1,0 +1,17 @@
+Building: Refinery
+	Name: #BLD_REFINERY
+	Description: #BLD_REFINERY_DESC
+	Sprite: Factory
+
+	Category: Infrastructure
+
+	Size: 2x2
+	Base Cost: 400
+	Tile Cost: 75
+	Build Time: 150
+
+	Base Maintenance: 20
+	Tile Maintenance: 30
+
+	RequireNativePressure(Allow Money = False)
+	GiveNativePressure(2, Allow Money = False)

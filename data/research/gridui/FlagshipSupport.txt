@@ -1,0 +1,118 @@
+Technology: Flagship
+	Name: Battleship Development
+	Icon: GevronFleetIcons::1
+	Color: #ff0021
+	Description: #R_SPEC_FLAGSHIP1_DESC
+	Time Cost: 60
+	Point Cost: 1
+	Class: Keystone
+	UnlockTag(FlagshipTech)
+	ConflictUnlockTag(SupportTech)
+	SecondaryMoneyCost(1)
+	AddModifier(hull/Support::BuildCostFactor(1.05))
+	AddModifier( hull/Flagship::BuildCostFactor(0.90) )
+
+	ReplaceTechnologyNodes(Support, c2)
+Technology: Flagship2
+	Name: Streamlined Battleships
+	Icon: GevronFleetIcons::1
+	Color: #ff0021
+	Description: #R_SPEC_FLAGSHIP2_DESC
+	Time Cost: 120
+	Point Cost: 1
+	Class: Keystone
+	UnlockTag(FlagshipTech)
+	ConflictUnlockTag(SupportTech)
+	SecondaryMoneyCost(1)
+	AddModifier(hull/Flagship::SupportCapacityFactor(0.80))
+	AddModifier(hull/Flagship::MaintCostFactor(0.90) )
+
+	ReplaceTechnologyNodes(Support2, c3)
+Technology: Flagship3
+	Name: Battleship Manufacturing
+	Icon: GevronFleetIcons::1
+	Color: #ff0021
+	Description: #R_SPEC_FLAGSHIP3_DESC
+	Time Cost: 240
+	Point Cost: 1
+	Class: Keystone
+	UnlockTag(FlagshipTech)
+	ConflictUnlockTag(SupportTech)
+	SecondaryMoneyCost(1)
+	AddModifier(hull/Support::LaborCostFactor(1.15))
+	AddModifier( hull/Flagship::LaborCostFactor(0.90) )
+
+	ReplaceTechnologyNodes(Support3, c3)
+Technology: Flagship4
+	Name: Reinforced Architecture
+	Icon: GevronFleetIcons::1
+	Color: #ff0021
+	Description: #R_SPEC_FLAGSHIP4_DESC
+	Time Cost: 300
+	Point Cost: 1
+	Class: Keystone
+	UnlockTag(FlagshipTech)
+	ConflictUnlockTag(SupportTech)
+	SecondaryMoneyCost(1)
+	AddModifier(hull/Flagship::HpFactor(1.1))
+	AddModifier( hull/Flagship::ShieldCapacityFactor(1.1))
+
+
+	ReplaceTechnologyNodes(Support4, c3)
+Technology: Support
+	Name: Carrier Development
+	Icon: SupportTech
+	Description: #R_SPEC_SUPPORT1_DESC
+	Point Cost: 1
+	Time Cost: 60
+	Class: Keystone
+	Color: #ff8f0fd2
+	UnlockTag(SupportTech)
+	ConflictUnlockTag(FlagshipTech)
+	AddModifier( hull/Flagship::BuildCostFactor(1.05) )
+	AddModifier(hull/Support::BuildCostFactor(0.90))
+
+
+	ReplaceTechnologyNodes(Flagship, c3)
+	
+Technology: Support2
+	Name: Small Arms Development
+	Icon: SupportTech
+	Description: #R_SPEC_SUPPORT2_DESC
+	Point Cost: 1
+	Time Cost: 180
+	Color: #ff8f0fd2
+	Class: Keystone
+	UnlockTag(SupportTech)
+	ConflictUnlockTag(FlagShipTech)
+	AddModifier( hull/Flagship::DamageFactor(0.9) )
+	AddModifier(hull/Support::DamageFactor(1.1))
+
+	ReplaceTechnologyNodes(Flagship2, c3)
+Technology: Support3
+	Name: Targeting Sensor Shunt
+	Icon: SupportTech
+	Description: #R_SPEC_SUPPORT3_DESC
+	Point Cost: 1
+	Class: Keystone
+	Time Cost: 240
+	Color: #ff8f0fd2
+	UnlockTag(SupportTech)
+	ConflictUnlockTag(FlagShipTech)
+	AddModifier(hull/Support::RangeFactor(1.10))
+	AddModifier(hull/Flagship::RangeFactor(0.9))
+
+	ReplaceTechnologyNodes(Flagship3, c3)
+Technology: Support4
+	Name: Support Ship Manufacturing
+	Icon: SupportTech
+	Description: #R_SPEC_SUPPORT4_DESC
+	Point Cost: 1
+	Class: Keystone
+	Time Cost: 300
+	Color: #ff8f0fd2
+	ReplaceTechnologyNodes(Flagship4, c3)
+	AddModifier(hull/Support::LaborCostFactor(0.7))
+	UnlockTag(SupportTech)
+	ConflictUnlockTag(FlagShipTech)
+	AddModifier(hull/Support::BuildCostFactor(0.90))

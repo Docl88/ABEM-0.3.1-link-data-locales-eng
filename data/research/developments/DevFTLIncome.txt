@@ -1,0 +1,14 @@
+Technology: DevFTLIncome
+	Name: #R_DEV_FTL_INCOME
+	Blurb: #R_DEV_FTL_INCOME_BLURB:0.5
+	Description: #R_DEV_FTL_INCOME_DESC
+	Class: Boost
+
+	Point Cost: 800
+	Time Cost: 120
+
+	Icon: ResourceIcon::3
+	Color: #00c0ff
+
+	SecondaryEnergyCost(800)
+	AddFTLIncome(0.5)
