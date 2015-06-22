@@ -1,5 +1,5 @@
 Building: CloackFacility
-	Name: Cloack Facility
+	Name: #B_CLOACKFACILITY
 	Sprite: cloack
 	Size: 6x6
 	Base Cost: 2000

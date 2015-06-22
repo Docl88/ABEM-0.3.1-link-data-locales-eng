@@ -1,5 +1,6 @@
 Subsystem: QuantumArmor
-	Name: Quantum Armor
+	Name: #S_QUANTUM_ARMOR
+	Description: #S_QUANTUM_ARMOR_DESC
 	BaseColor: #898989
 	Elevation: 1
 
@@ -20,7 +21,6 @@ Subsystem: QuantumArmor
 	Hex.MaintainCost := 0.2
 
 	DamageResist := ShipSize /30
-	Description: #S_QUANTUM_ARMOR_DESC
 	Effect: DamageResist
 		Resist = DamageResist
 

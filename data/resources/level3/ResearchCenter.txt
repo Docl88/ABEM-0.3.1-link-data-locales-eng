@@ -1,7 +1,7 @@
 Resource: ResearchCenter
-	Name: Research Center
-	Blurb: #RESOURCE_RESEARCH_BLURB
+	Name: #RESOURCE_RESEARCH
 	Description: #RESOURCE_RESEARCH_DESC
+	Blurb: #RESOURCE_RESEARCH_BLURB
 	Small Icon: ResourceIcon::3
 	Icon: ResourceIcon::3
 	Native Biome: Crystallic

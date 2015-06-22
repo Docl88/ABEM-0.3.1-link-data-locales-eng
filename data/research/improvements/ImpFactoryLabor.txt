@@ -28,22 +28,22 @@ Technology: ImpFactoryLabor2
 
 	SecondaryInfluenceCost(24)
 Technology: ImpFactoryLaborB
+	Name: #R_IMP_FACTORY_LABORB
+	Blurb: #R_IMP_FACTORY_LABOR_BLURB:4
+	Description: #R_IMP_FACTORY_LABOR_PERCENT_DESC
 	Icon: Factory
 	Color: #b1b4b6
 	Point Cost: 2000
 	Time Cost: 400
-	Name: (I) Factory Enhancement
-	Blurb: #R_IMP_FACTORY_LABOR_BLURB:4
-	Description: #R_IMP_FACTORY_LABOR_PERCENT_DESC
 	ResetWhenUnlocked()
 	SecondaryMoneyCost(2000)
 	ModAttribute(FactoryLaborMod, AddBase, 4)
 Technology: ImpMothershipLaborB
-	Icon: ResourceIcon::6
-	Color: #b1b4b6
-	Name: (I) Metallurgical Advances
+	Name: #R_IMP_MOTHERSHIP_LABOR
 	Blurb: #R_IMP_MOTHERSHIP_LABOR_BLURB:8
 	Description: #R_IMP_MOTHERSHIP_LABOR_PERCENT_DESC
+	Icon: ResourceIcon::6
+	Color: #b1b4b6
 	Point Cost: 2000
 	Time Cost: 400
 	ModAttribute(FactoryLaborMod, AddBase, 8)

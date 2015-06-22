@@ -1,5 +1,5 @@
 Status: Metaphasic
-	Name: Metaphasic Nebula
+	Name: #NEBULA_METAPHASIC
 	Description: #NEBULA_METAPHASIC_DESC
 	Icon: ResourceIcon::5 * #429cffff * #00ff00
 	

@@ -1,11 +1,11 @@
 Technology: SupportReactive
-	Name: Reactive Armor
+	Name: #R_SUPPORT_REACTIVEARMOR
+	Description: #R_SUPPORT_REACTIVEARMOR_DESC
+	Blurb: #SUPPORT_EQUIPMENT_BLURB
 	Class: Unlock
 	Point Cost: 1000
 	Time Cost: 300
 	Icon: TechIcons::14
-	Blurb: #SUPPORT_EQUIPMENT_BLURB
-	Description: #R_SUPPORT_REACTIVEARMOR_DESC
 	Color: #ffb326
 	ModAttribute(ProgenitorTechProgress, Add, 1)
 	SkipOnUnlockedSubsystem(SupportReactiveArmor)

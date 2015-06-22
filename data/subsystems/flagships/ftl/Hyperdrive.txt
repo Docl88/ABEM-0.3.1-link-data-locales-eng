@@ -1,13 +1,13 @@
-Subsystem: GuardianHyperdrive
-	Name: #S_GUARDIANHYPERDRIVE
-	Description: #S_GUARDIANHYPERDRIVE_DESC
+Subsystem: Hyperdrive
+	Name: #HYPERDRIVE
+	Description: #HYPERDRIVE_DESC
 	BaseColor: #a767ad
 	TypeColor: #a767ad
 	Picture: SubsystemButtonArt::10
 	Elevation: 0
 	
 	Tags: BaseCost, Category:Propulsion
-	Tags: Engine, Hyperdrive, HasInternals, Disabled
+	Tags: Engine, Hyperdrive, HasInternals
 	Hull: Flagship
 	
 	Size := HexSize * Hexes

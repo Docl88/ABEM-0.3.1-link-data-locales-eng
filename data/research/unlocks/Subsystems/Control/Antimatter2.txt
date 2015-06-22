@@ -1,11 +1,11 @@
 Technology: Antimatter2
-	Name: Shielded Antimatter Generator
-	Blurb: In-Combat Resupply
+	Name: #R_SYS_SHIELDED_AMGEN
+	Description: #R_SYS_SHIELDED_AMGEN_DESC
+	Blurb: #R_SYS_SHIELDED_AMGEN_BLURB
 	Class: Unlock
 	Point Cost: 1500
 	Time Cost: 180
 	Icon: TechIcons::7
-	Description: #R_SYS_SHIELDED_AMGEN_DESC
 	Color: #33ffcc
 	ModAttribute(ProgenitorTechProgress, Add, 5)
 	UnlockSubsystem(ShieldedAntimatter)

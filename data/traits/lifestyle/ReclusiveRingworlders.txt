@@ -1,5 +1,5 @@
 Trait: ReclusiveRingworlders
-	Name: Reclusive Ringworlders
+	Name: #TRAIT_RECLUSIVE_RINGWORLDERS
 	Description: #TRAIT_RECLUSIVE_RINGWORLDERS_DESC
 	Order: 5
 

@@ -1,2 +1,0 @@
-Status: IsGuardian
-	Visible To: Nobody

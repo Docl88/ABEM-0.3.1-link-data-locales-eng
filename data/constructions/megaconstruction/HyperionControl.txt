@@ -1,11 +1,11 @@
 Construction: HyperionControl
-	Name: Hyperion Fleet Control
+	Name: #C_HYPERIONCONTROL
+	Description: #C_HYPERIONCONTROL_DESC
 	Icon: ResourceIcons::38
 	Build Cost: 1000
 	Labor Cost: 400
 	Category: Orbital Modules
 	Target: planet = Empire
-	Description: Increases planet fleet support by over 9k
 
 	RequireNotStatus(HyperionFleet)
 	ConsumeCargo(Ore, 2000)

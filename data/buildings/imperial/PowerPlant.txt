@@ -1,7 +1,7 @@
 Building: PowerPlantImp
 	Name: #F_POWERPLANT_NAME
-	Sprite: TechIcons::6
 	Description: #F_POWERPLANT_DESC
+	Sprite: TechIcons::6
 	Base Cost: 600
 	Base Maintenance: 400
 	Tile Maintenance: 50

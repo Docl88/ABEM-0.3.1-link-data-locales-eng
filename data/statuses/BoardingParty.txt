@@ -1,5 +1,5 @@
 Status: BoardingParty
-	Name: Boarded
+	Name: #STATUS_BOARDED
 	Description: #STATUS_BOARDED_DESC
 	Visible To: Everybody
 	Unique: True

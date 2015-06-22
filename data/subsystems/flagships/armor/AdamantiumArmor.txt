@@ -1,5 +1,6 @@
 Subsystem: AdamantiumArmor
-	Name: AdamantiumArmor
+	Name: #S_ADAMANTIUM_ARMOR
+	Description: #S_ADAMANTIUM_ARMOR_DESC
 	BaseColor: #128cc1
 	Elevation: 1
 
@@ -27,7 +28,6 @@ Subsystem: AdamantiumArmor
 	Hex.LaborCost := 0.4 * HexSize
 	Hex.AdamantiumCost := 1 * HexSize
 	Hex.MaintainCost := 0
-	Description: Not Implemented
 
 
 	Effect: ReduceDamagePercentile

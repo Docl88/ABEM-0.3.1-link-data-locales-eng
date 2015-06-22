@@ -1,5 +1,5 @@
 Resource: Adamantium
-	Name: Adamantium
+	Name: #C_ADAMANTIUM
 	Exportable: False
 	Asteroid Labor: 200
 	Frequency: 0

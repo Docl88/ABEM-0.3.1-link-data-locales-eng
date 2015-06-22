@@ -1,5 +1,5 @@
 Status: StellarShield
-	Name: Shielded
+	Name: #STATUS_STELLAR_SHIELD
 	Description: #STATUS_STELLAR_SHIELD_DESC
 	Collapses: True
 	Visible To: Everybody

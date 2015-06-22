@@ -1,5 +1,5 @@
 Subsystem: CovariantShield
-	Name: Covariant Shield Generator
+	Name: #S_COVARIANT_SHIELD
 	Description: #S_COVARIANT_SHIELD_DESC
 	BaseColor: #0044db
 	Elevation: 1

@@ -1,5 +1,7 @@
 Building: Lvl1Research
-	Name: Research Complex
+	Name: #B_LVL1RESEARCH
+	Description: #B_LVL1RESEARCH_DESC
+
 	Sprite: lvl1r
 
 	Category: Tier I Resources 
@@ -9,11 +11,6 @@ Building: Lvl1Research
 
 
 	Labor Cost: 250
-	Description: <<
-		A specialized processing plant that can replace a Level 1 Research and prodruce 3 Pressure  .
-
-		[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
-	>>
 
 	ConsumeCargo(Ore, 2000)
 
@@ -22,7 +19,9 @@ Building: Lvl1Research
 	AddDummyResource(Titanium, 1)
 
 Building: Lvl1Budget
-	Name: Space Market
+	Name: #B_LVL1BUDGET
+	Description: #B_LVL1BUDGET_DESC
+
 	Sprite: lvl1b
 
 	Category: Tier I Resources 
@@ -33,11 +32,6 @@ Building: Lvl1Budget
 	
 	Labor Cost: 250
 	
-	Description: <<
-		A specialized processing plant that can replace a Level 1 Budget and produce 3 Pressure  .
-
-		[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
-	>>
 
 	ConsumeCargo(Ore, 2000)
 
@@ -48,7 +42,9 @@ Building: Lvl1Budget
 
 
 Building: Lvl1Defense
-	Name: Weapons Factory
+	Name: #B_LVL1DEFENSE
+	Description: #B_LVL1DEFENSE_DESC
+
 	Sprite: lvl1d
 
 	Category: Tier I Resources 
@@ -59,11 +55,6 @@ Building: Lvl1Defense
 	
 	Labor Cost: 250
 	
-	Description: <<
-		A specialized processing plant that can replace a Level 1 Defense and prodruce 3 Pressure  .
-
-		[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
-	>>
 
 	ConsumeCargo(Ore, 2000)
 

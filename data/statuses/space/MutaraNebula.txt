@@ -1,5 +1,5 @@
 Status: Mutara
-	Name: Mutara-class Nebula
+	Name: #NEBULA_MUTARA
 	Description: #NEBULA_MUTARA_DESC
 	Icon: ResourceIcon::5 * #aa0000
 	Color: #aa0000

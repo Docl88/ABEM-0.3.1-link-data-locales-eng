@@ -1,5 +1,5 @@
 Subsystem: NanoArmor
-	Name: Nanite Armor
+	Name: #S_NANO_ARMOR
 	Description: #S_NANO_ARMOR_DESC
 	BaseColor: #128cc1
 	Elevation: 1

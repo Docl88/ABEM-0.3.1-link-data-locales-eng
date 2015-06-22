@@ -1,5 +1,6 @@
 Subsystem: RechargerModule
-	Name: Power Transmission Array
+	Name: #S_RECHARGERMODULE
+	Description: #S_RECHARGERMODULE_DESC
 	BaseColor: #683db8
 	TypeColor: #683db8
 	Elevation: 2
@@ -15,7 +16,6 @@ Subsystem: RechargerModule
 	Hex.HP := 0
 
 	Hex.LaborCost := 0
-	Description: #S_RECHARGERMODULE_DESC
 	Hook: AddRegionStatus(FastRecharge)
 	Requires:
 		Command = Hexes

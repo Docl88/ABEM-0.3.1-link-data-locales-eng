@@ -1,5 +1,6 @@
 Technology: QuantumArmor
-	Name: Quantum Armor
+	Name: #R_SYS_QUANTUM_ARMOR
+	Description: #R_SYS_QUANTUM_ARMOR_DESC
 	Class: Unlock
 
 	Point Cost: 1000
@@ -7,7 +8,6 @@ Technology: QuantumArmor
 
 	Icon: QuantumArmor
 	Color: #449944
-	Description: #R_SYS_QUANTUM_ARMOR_DESC
 
 	UnlockSubsystem(QuantumArmor)
 

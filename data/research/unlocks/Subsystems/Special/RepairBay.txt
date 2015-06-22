@@ -1,10 +1,10 @@
 Technology: RepairBay
-	Name: Nanite Dispensers
+	Name: #R_SYS_REPAIRBAY
+	Description: #R_SYS_REPAIRBAY_DESC
 	Icon: HyperdenseLaser::2 * #5cf90e
 	Point Cost: 2000
 	Time Cost: 360
 	Class: Unlock
-	Description: #R_SYS_REPAIRBAY_DESC
 	Color: #5cf90e
 	ModAttribute(ProgenitorTechProgress, Add, 2.5)
 	SkipOnUnlockedSubsystem(RepairBay)

@@ -30,13 +30,13 @@ Technology: ImpAllHealth2
 	AddModifier(ImpactLevelFactor(1.2))
 	ModAttribute(OrbitalHealthMod, Multiply, 1.2)
 Technology: Further Development
-	Name: (I) Material Development
+	Name: #R_INF_HULL
+	Description: #R_INF_HULL_DESC
+	Blurb: #R_INF_HULL_BLURB
 	Class: Keystone
 	Icon: AttributeIcons::6
 	Point Cost: 1500
 	Time Cost: 200
-	Description: #R_INF_HULL_DESC
-	Blurb: +10% Repair&Armor &HP
 	AddModifier(RepairFactor(1.1))
 	ModAttribute(OrbitalHealthMod, Multiply, 1.1)
 	ResetWhenUnlocked()

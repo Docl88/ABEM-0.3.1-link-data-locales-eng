@@ -1,5 +1,5 @@
 Subsystem: CrystalArmor
-	Name: Crystalline Armor
+	Name: #S_CRYSTAL_ARMOR
 	Description: #S_CRYSTAL_ARMOR_DESC
 	BaseColor: #a9a9a9
 	Elevation: 1

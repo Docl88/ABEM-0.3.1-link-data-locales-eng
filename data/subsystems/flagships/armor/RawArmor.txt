@@ -1,5 +1,6 @@
 Subsystem: OreArmor
-	Name: Raw Armor
+	Name:  #S_ORE_ARMOR
+	Description: #S_ORE_ARMOR_DESC
 	BaseColor: #a9a9a9
 	Elevation: 1
 
@@ -22,7 +23,6 @@ Subsystem: OreArmor
 	Hex.MaintainCost := 0
 
 	//DamageResist := ShipSize /70.0
-	Description: WIP Numbers Wall of text
 	//Effect: DamageResist
 	//	Resist = DamageResist
 

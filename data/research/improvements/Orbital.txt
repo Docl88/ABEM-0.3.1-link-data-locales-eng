@@ -1,5 +1,5 @@
 Technology: OrbitalEnhancement
-	Name: Orbital Enhancement
+	Name: #R_IMP_ORBITAL
 	Description: #R_IMP_ORBITAL_DESC
 	Icon: orbital
 	Point Cost: 500

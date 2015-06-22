@@ -1,6 +1,6 @@
 Subsystem: GuardianHull
-	Name: Guardian Hull
-	Description: Dummy subsystem only used by the Remnant Guardian. Cannot be boarded.
+	Name: #S_GUARDIANHULL
+	Description: #S_GUARDIANHULL_DESC
 	
 	Tags: Applied:Hull, Category:Hulls, NoCore
 	Hull: Flagship

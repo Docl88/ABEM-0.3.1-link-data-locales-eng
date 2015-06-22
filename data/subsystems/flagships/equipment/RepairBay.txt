@@ -1,5 +1,6 @@
 Subsystem: RepairBay
-	Name: Nanite Dispenser
+	Name: #S_REPAIRBAY
+	Description: #S_REPAIRBAY_DESC
 	BaseColor: #5cf90e
 	Picture: HyperdenseLaser::0 * #5cf90e
 	Elevation: 2
@@ -16,7 +17,6 @@ Subsystem: RepairBay
 	Hex.Resistance := 0.4
 	Hex.HP := 20 * HexSize
 	Hex.Mass := HexSize
-	Description: #S_REPAIRBAY_DESC
 	Requires:
 		Command = 1
 		Power = PowerUse

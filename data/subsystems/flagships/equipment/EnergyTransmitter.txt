@@ -1,5 +1,6 @@
 Subsystem: EnergyTransmitter
-	Name: Energy Transferral Beam
+	Name: #S_ENERGYTRANSMITTER
+	Description: #S_ENERGYTRANSMITTER_DESC
 	BaseColor: #2fd6b3
 	Picture: Laser::0 * #38a2f9
 	Elevation: 2
@@ -16,7 +17,6 @@ Subsystem: EnergyTransmitter
 	Hex.Resistance := 0.4
 	Hex.HP := 20 * HexSize
 	Hex.Mass := HexSize
-	Description: #S_ENERGYTRANSMITTER_DESC
 	Requires:
 		Command = 1
 		Power = PowerUse

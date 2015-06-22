@@ -1,5 +1,5 @@
 Status: Radioactive
-	Name: Radioactive Nebula
+	Name: #NEBULA_RADIOACTIVE
 	Description: #NEBULA_RADIOACTIVE_DESC
 	Icon: ResourceIcons::13 * #aa0000
 	Color: #aa0000

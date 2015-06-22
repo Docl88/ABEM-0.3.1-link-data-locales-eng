@@ -1,10 +1,10 @@
 Anomaly: BlackHole
-	Name: Crippled Remnant Guardian
-	Frequency: 0
+	Name: #A_BLACKHOLE
 	Description: #A_GUARDIAN_UNSCANNED
+	Narrative: #A_GUARDIAN_UNSCANNED
+	Frequency: 0
 	Model: TyrantFlagLarge
 	Material: TyrantMedium
-	Narrative: #A_GUARDIAN_UNSCANNED
 	Option: Reactivate
 		Description: #A_GUARDIAN_REACTIVATE
 		Safe: False
@@ -18,22 +18,22 @@ Anomaly: BlackHole
 		Result: 95%
 			SendMessage(#A_GUARDIAN_EXPLODE)
 	Option: RemnantShields
-		Description: Download the schematics for the flagship's advanced shields.
+		Description: #A_REMNANTSHIELDS_DESC
 		Icon: TechIcons::35*#60ffff
 		NotifyAll(#A_GUARDIAN_NOTIFY_SHIELD, Description = #A_GUARDIAN_NOTIFY_SHIELD_DESC, Icon = TechIcons::35*#60ffff)
 		UnlockTag(RemnantShield)
 	Option: RemnantArmor
-		Description: Download the data on the flagship's advanced armor.
+		Description: #A_REMNANTARMOR_DESC
 		Icon: TechIcons::20*#60ffff
 		NotifyAll(#A_GUARDIAN_NOTIFY_ARMOR, Description = #A_GUARDIAN_NOTIFY_ARMOR_DESC, Icon = TechIcons::20*#60ffff)
 		UnlockTag(RemnantArmor)
 	Option: RemnantComputers
-		Description: Download the schematics for the flagship's radiation-resistant computer core.
+		Description: #A_REMNANTCOMPUTERS_DESC
 		Icon: TechIcons::35*#60ffff
 		NotifyAll(#A_GUARDIAN_NOTIFY_COMPUTER, Description = #A_GUARDIAN_NOTIFY_COMPUTER_DESC, Icon = TechIcons::58)
 		UnlockTag(ProgenitorComputer)
 	Option: DroneWeapons
-		Description: Download the data on the flagship's powerful drone weapons.
+		Description: #A_DRONEWEAPONS_DESC
 		Icon: TechIcons::20*#60ffff
 		NotifyAll(#A_GUARDIAN_NOTIFY_DRONE, Description = #A_GUARDIAN_NOTIFY_DRONE_DESC, Icon = HexagonSubsystems::9)
 		UnlockTag(DroneWeapon)

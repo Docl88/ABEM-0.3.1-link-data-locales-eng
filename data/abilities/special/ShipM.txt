@@ -1,14 +1,14 @@
 Ability: PowerToW
-	Name: Power To weapons
-	Description: Reduce rest values to give power to Weapons
+	Name: #ABL_POWERTOW
+	Description: #ABL_POWERTOW_DESC
 Ability: PowerToS
-	Description: Reduce rest values to give power to Engines
+	Description: #ABL_POWERTOS_DESC
 Ability: PowerToE
-	Description: Reduce rest values to give power to Engines
-Ability: GoDownFighting
-	Description: Ship detroyed in 120s for example increased dmg*.Gives free tractor only usable on fleets >%HP
+	Description: #ABL_POWERTOE_DESC
+Ability: #ABL_GDF
+	Description: #ABL_GDF_DESC2
 	AddPermanentEffectiveness(0.4)
 Ability: RestoreLoyalty
 Ability: ReducesMaintenance
 Ability: FreeFTL
-	Description: FreeFTL on this ship
+	Description: #ABL_FREEFTL_DESC

@@ -1,8 +1,8 @@
 Technology: Flagship
-	Name: Battleship Development
+	Name: #R_SPEC_FLAGSHIP1
+	Description: #R_SPEC_FLAGSHIP1_DESC
 	Icon: GevronFleetIcons::1
 	Color: #ff0021
-	Description: #R_SPEC_FLAGSHIP1_DESC
 	Time Cost: 60
 	Point Cost: 1
 	Class: Keystone
@@ -14,10 +14,10 @@ Technology: Flagship
 
 	ReplaceTechnologyNodes(Support, c2)
 Technology: Flagship2
-	Name: Streamlined Battleships
+	Name: #R_SPEC_FLAGSHIP2
+	Description: #R_SPEC_FLAGSHIP2_DESC
 	Icon: GevronFleetIcons::1
 	Color: #ff0021
-	Description: #R_SPEC_FLAGSHIP2_DESC
 	Time Cost: 120
 	Point Cost: 1
 	Class: Keystone
@@ -29,10 +29,10 @@ Technology: Flagship2
 
 	ReplaceTechnologyNodes(Support2, c3)
 Technology: Flagship3
-	Name: Battleship Manufacturing
+	Name: #R_SPEC_FLAGSHIP3
+	Description: #R_SPEC_FLAGSHIP3_DESC
 	Icon: GevronFleetIcons::1
 	Color: #ff0021
-	Description: #R_SPEC_FLAGSHIP3_DESC
 	Time Cost: 240
 	Point Cost: 1
 	Class: Keystone
@@ -44,10 +44,10 @@ Technology: Flagship3
 
 	ReplaceTechnologyNodes(Support3, c3)
 Technology: Flagship4
-	Name: Reinforced Architecture
+	Name: #R_SPEC_FLAGSHIP4
+	Description: #R_SPEC_FLAGSHIP4_DESC
 	Icon: GevronFleetIcons::1
 	Color: #ff0021
-	Description: #R_SPEC_FLAGSHIP4_DESC
 	Time Cost: 300
 	Point Cost: 1
 	Class: Keystone
@@ -60,9 +60,9 @@ Technology: Flagship4
 
 	ReplaceTechnologyNodes(Support4, c3)
 Technology: Support
-	Name: Carrier Development
-	Icon: SupportTech
+	Name: #R_SPEC_SUPPORT1
 	Description: #R_SPEC_SUPPORT1_DESC
+	Icon: SupportTech
 	Point Cost: 1
 	Time Cost: 60
 	Class: Keystone
@@ -76,9 +76,9 @@ Technology: Support
 	ReplaceTechnologyNodes(Flagship, c3)
 	
 Technology: Support2
-	Name: Small Arms Development
-	Icon: SupportTech
+	Name: #R_SPEC_SUPPORT2
 	Description: #R_SPEC_SUPPORT2_DESC
+	Icon: SupportTech
 	Point Cost: 1
 	Time Cost: 180
 	Color: #ff8f0fd2
@@ -90,9 +90,9 @@ Technology: Support2
 
 	ReplaceTechnologyNodes(Flagship2, c3)
 Technology: Support3
-	Name: Targeting Sensor Shunt
-	Icon: SupportTech
+	Name: #R_SPEC_SUPPORT3
 	Description: #R_SPEC_SUPPORT3_DESC
+	Icon: SupportTech
 	Point Cost: 1
 	Class: Keystone
 	Time Cost: 240
@@ -104,9 +104,9 @@ Technology: Support3
 
 	ReplaceTechnologyNodes(Flagship3, c3)
 Technology: Support4
-	Name: Support Ship Manufacturing
-	Icon: SupportTech
+	Name: #R_SPEC_SUPPORT4
 	Description: #R_SPEC_SUPPORT4_DESC
+	Icon: SupportTech
 	Point Cost: 1
 	Class: Keystone
 	Time Cost: 300

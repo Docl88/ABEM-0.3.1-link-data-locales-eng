@@ -1,5 +1,7 @@
 Building: Lvl2Research
-	Name: Research Complex
+	Name: #B_LVL2RESEARCH
+	Description: #B_LVL2RESEARCH_DESC
+
 	Sprite: lvl2r
 
 	Category: Tier II Resources 
@@ -7,13 +9,7 @@ Building: Lvl2Research
 	Size: 4x8
 	Base Cost: 2000
 
-	
 	Labor Cost: 500
-	Description: <<
-		A specialized processing plant that can replace a Level 2 Research and prodruce 7 Pressure  .
-
-		[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
-	>>
 
 	ConsumeCargo(Ore, 6000)
 
@@ -22,7 +18,9 @@ Building: Lvl2Research
 	AddDummyResource(Medicines, 1)
 
 Building: Lvl2Budget
-	Name: Space Market
+	Name: #B_LVL2BUDGET
+	Description: #B_LVL2BUDGET_DESC
+
 	Sprite: lvl2b
 
 	Category: Tier II Resources 
@@ -30,14 +28,8 @@ Building: Lvl2Budget
 	Size: 4x8
 	Base Cost: 2000
 
-
 	Labor Cost: 500
 	
-	Description: <<
-		A specialized processing plant that can replace a Level 2 Budget and produce 7 Pressure  .
-
-		[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
-	>>
 
 	ConsumeCargo(Ore, 6000)
 
@@ -48,7 +40,9 @@ Building: Lvl2Budget
 
 
 Building: Lvl2Defense
-	Name: Weapons Factory
+	Name: #B_LVL2DEFENSE
+	Description: #B_LVL2DEFENSE_DESC
+
 	Sprite: lvl2d
 
 	Category: Tier II Resources 
@@ -58,12 +52,6 @@ Building: Lvl2Defense
 
 	
 	Labor Cost: 500
-	
-	Description: <<
-		A specialized processing plant that can replace a Level 2 Defense and prodruce 7 Pressure  .
-
-		[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
-	>>
 
 	ConsumeCargo(Ore, 6000)
 

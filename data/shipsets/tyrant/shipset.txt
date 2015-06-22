@@ -1,5 +1,5 @@
 Shipset: Tyrant
-	Name: Tyrant
+	Name: #TYRANT
 	Available: No
 	
 	Hull: TyrantFrigate

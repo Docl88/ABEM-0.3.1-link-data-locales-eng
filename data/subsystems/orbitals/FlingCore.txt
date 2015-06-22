@@ -1,5 +1,6 @@
 Subsystem: Fling
 	Name: #ORB_FLING_CORE
+	Description: #S_FLING_DESC
 	BaseColor: #595783
 	TypeColor: #595783
 	Elevation: 2
@@ -15,7 +16,6 @@ Subsystem: Fling
 	Hex.HP := 0
 
 	Hex.LaborCost := 0
-	Description: #S_FLING_DESC
 	Hook: IsFlingBeacon()
 
 	Module: Default

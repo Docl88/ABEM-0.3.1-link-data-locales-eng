@@ -17,8 +17,8 @@ Technology: ImpPopLvl2
 	ModAttribute(PopulationLevel2Mod, Add, 0.5)
 Technology: ImpPopLvl3
 	Description: #R_IMP_POP_PERCENT_LVL2PLANET_DESC
-	Blurb: +1 pop on Level 2+ planets
-	Name: (I) Metropolitan Engineering
+	Blurb: #R_IMP_POP_PERCENT_LVL2PLANET_BLURB
+	Name: #R_IMP_POP_PERCENT_LVL2PLANET
 	Icon: DesignationIcons::10*#a5ff0b
 	Point Cost: 2000
 	Time Cost: 240
@@ -27,14 +27,14 @@ Technology: ImpPopLvl3
 	ModAttribute(PopulationLevel3Mod, Add, 1)
 	ModAttribute(PopulationLevel2Mod, Add, 1)
 Technology: TileDev
-	Name: Surface Development
-	Description: Tiles Develop Faster 30%
+	Name: #R_IMP_TILEDEV
+	Description: #R_IMP_TILEDEV_DESC
 	Point Cost: 500
 	Time Cost: 60
 	Icon: DesignationIcons::10
 	ModAttribute(TileDevelopmentFactor, AddBase, 0.3)
 Technology: MechPop
-	Name: Population Matrix Enhancements
+	Name: #R_MECHPOP
 	Description: #R_MECHPOP_DESC
 	Icon: ResourceIconsSmall::3
 	Point Cost: 1000
@@ -42,7 +42,7 @@ Technology: MechPop
 	SecondaryEnergyCost(1500)
 	ModAttribute(MechPopulationBuilt, Add, -5)
 Technology: InfMechPop
-	Name: (I) Improved Population Matrix
+	Name: #R_INF_MECHPOP
 	Description: #R_INF_MECHPOP_DESC
 	Icon: ResourceIconsSmall::3
 	Point Cost: 2000

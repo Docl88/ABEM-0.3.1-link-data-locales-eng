@@ -1,5 +1,5 @@
 Status: NylliFood
-	Name: Hydroponics Station
+	Name: #STATUS_NYLLIFOOD
 	Collapses: True
 	Unique: False
 	Visible To: Nobody
@@ -8,7 +8,7 @@ Status: NylliFood
 	RemoveOnOwnerChange()
 	ABEM_orbitals::ApplyToOwned()
 Status: NylliWater
-	Name: Water Reclamation Facility
+	Name: #STATUS_NYLLIWATER
 	Collapses: True
 	Unique: False
 	Visible To: Nobody

@@ -1,13 +1,13 @@
 Resource: Technofarm
-	Name: Technofarm
+	Name: #TECHNOFARM
+	Description: #TECHNOFARM_DESC
+	Blurb: #TECHNOFARM_BLURB
 	Small Icon: ResourceIconsSmall::72
 	Icon: ResourceIconsSmall::72
 	Native Biome: Forest
 	Level: 2
 	Pressure: 3 Money
 	Pressure: 3 Research
-	Blurb: #TECHNOFARM_BLURB
-	Description: #TECHNOFARM_DESC
 	Exportable: False
 	Artificial: True
 	Affinity: Money

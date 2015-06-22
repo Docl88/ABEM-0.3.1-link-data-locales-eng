@@ -16,5 +16,5 @@ Artifact: ProtoPlanet
 	Ability: ProtoLevel0
 	Ability: ProtoLevel1
 	Ability: ProtoLevel2
-	Time Frequency: 0.1
 	Ability: ProtoLevel3
+	Time Frequency: 0.1

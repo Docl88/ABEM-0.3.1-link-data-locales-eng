@@ -1,5 +1,5 @@
 Status: Metreon
-	Name: Metreon Nebula
+	Name: #NEBULA_METREON
 	Description: #NEBULA_METREON_DESC
 	Icon: PlateArmor * #ff0000
 	Color: #ff0000

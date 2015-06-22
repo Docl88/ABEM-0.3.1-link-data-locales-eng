@@ -1,5 +1,6 @@
 Technology: NanoArmor
-	Name: Nanite Armor
+	Name: #R_NANO_ARMOR
+	Description: #R_NANO_ARMOR_DESC
 	Class: Unlock
 
 	Point Cost: 1800
@@ -7,7 +8,6 @@ Technology: NanoArmor
 
 	Icon: NanoArmor
 	Color: #676210
-	Description: #R_NANO_ARMOR_DESC
 
 	ModAttribute(ProgenitorTechProgress, Add, 5)
 	SkipOnUnlockedSubsystem(NanoArmor)

@@ -7,15 +7,15 @@ Camp: MediumCamp
 	Ship: 4-17x Beamship
 	Ship: 0-10x Heavy Gunship
 	Pickup: SubsystemsUpgrade
-		Name: Equipment Stash
-		Description: A Remnant equipment stash you can improve your technology with.
+		Name: #C_SUBSYSTEMSUPGRADE
+		Description: #C_SUBSYSTEMSUPGRADE_DESC
 		Verb: Analyze $1
 		Model: Depot
 		Material: VolkurGenericPBR
 		SpawnAnomaly(Type = SubsystemsUpgrade, Start Scanned = True)
 	Pickup: SolarOrbital
-		Name: Advanced Solar Engine
-		Description: A dormant Solar Engine of Progenitor design. Will generate energy when reactivated, and does not require maintenance. Produces more energy than a regular Solar Engine.
+		Name: #C_SOLARORBITAL
+		Description: #C_SOLARORBITAL_DESC
 		Verb: Reactivate $1
 		Model: CommerceStation
 		Material: VolkurGenericPBR

@@ -1,5 +1,5 @@
 Hull: RWCorvette
-	Name: Corvette
+	Name: #RWCORVETTE
 	Background: TyrantSmallBlue
 	BackgroundScale: 0.95
 	Material: TyrantSmall
@@ -14,7 +14,7 @@ Hull: RWCorvette
 
 /////////////////////
 Hull: RWFrigate
-	Name: Frigate
+	Name: #RWFRIGATE
 	Background: TyrantSmallBlue
 	BackgroundScale: 0.95
 	Material: TyrantMedium
@@ -29,7 +29,7 @@ Hull: RWFrigate
 
 /////////////////////
 Hull: RWDestroyer
-	Name: Destroyer
+	Name: #RWDESTROYER
 	Background: TyrantMediumBlue
 	BackgroundScale: 0.95
 	Material: TyrantMedium
@@ -44,7 +44,7 @@ Hull: RWDestroyer
 
 /////////////////////
 Hull: RWCruiser
-	Name: Cruiser
+	Name: #RWCRUISER
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.05
 	Material: TyrantMedium
@@ -59,7 +59,7 @@ Hull: RWCruiser
 
 /////////////////////
 Hull: RWBattlecruiser
-	Name: Battlecruiser
+	Name: #RWBATTLECRUISER
 	Background: TyrantSmallBlue
 	BackgroundScale: 1.3
 	Material: TyrantSmall
@@ -75,7 +75,7 @@ Hull: RWBattlecruiser
 
 /////////////////////
 Hull: RWBattleship
-	Name: Battleship
+	Name: #RWBATTLESHIP
 	Background: TyrantSmallBlue
 	BackgroundScale: 1.2
 	Material: TyrantSmall
@@ -88,7 +88,7 @@ Hull: RWBattleship
 
 /////////////////////
 Hull: RWTitan
-	Name: Dreadnaught
+	Name: #RWTITAN
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.35
 	Material: TyrantMedium
@@ -101,7 +101,7 @@ Hull: RWTitan
 
 /////////////////////
 Hull: RWHeavyCarrier
-	Name: Heavy Carrier
+	Name: #RWHEAVYCARRIER
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.35
 	Material: TyrantMedium
@@ -114,7 +114,7 @@ Hull: RWHeavyCarrier
 
 /////////////////////
 //Hull: RWSpecial
-//	Name: Heavy Carrier
+//	Name: #RWSPECIAL
 //	Background: TyrantMediumBlue
 //	BackgroundScale: 1.35
 //	Material: TyrantMedium
@@ -127,7 +127,7 @@ Hull: RWHeavyCarrier
 
 /////////////////////
 Hull: RWStation
-	Name: Station
+	Name: #RWSTATION
 	Background: VolkurBlueprint
 	BackgroundScale: 0.9
 	Material: VolkurGenericPBR

@@ -1,5 +1,6 @@
 Subsystem: OrbitalControl
-	Name: Orbital Thruster
+	Name: #S_ORBITALTHRUSTER
+	Description: #S_ORBITALTHRUSTER_DESC
 	BaseColor: #f99a77
 	Picture: RocketEngine
 	Elevation: 2
@@ -17,7 +18,6 @@ Subsystem: OrbitalControl
 	Hex.HP := 6 * HexSize
 	Hex.MaintainCost := 0
 	Thrust := 7 * Size
-	Description: #S_ORBITALTHRUSTER_DESC
 	Hook: ABEM_hooks::AddThrustBonus(Thrust)
 	Requires:
 		Command = 1

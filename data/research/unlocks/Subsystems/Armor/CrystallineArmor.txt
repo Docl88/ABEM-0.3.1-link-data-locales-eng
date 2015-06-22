@@ -1,7 +1,7 @@
 Technology: CrystalineArmor
-	Name: Crystalline Armor
-	Class: Unlock
+	Name: #R_CRYSTAL_ARMOR
 	Description: #R_CRYSTAL_ARMOR_DESC
+	Class: Unlock
 
 	Point Cost: 700
 	Time Cost: 240

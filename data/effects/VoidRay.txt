@@ -1,9 +1,0 @@
-Effect: VoidRay
-	Value: Amount
-	Value: Status
-	Value: StatusMultiplier
-	Value: StatusAmount
-	Value: StatusIncrement
-	Value: DamageType
-
-	End: ABEMCombat::IncreasingDamage

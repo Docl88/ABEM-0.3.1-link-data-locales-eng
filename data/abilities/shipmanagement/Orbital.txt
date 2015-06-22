@@ -1,5 +1,5 @@
 Ability: BuyTurretL
-	Name: Install Laser Turret
+	Name: #ABL_TURRET_LASER
 	Description: #ABL_TURRET_LASER_DESC
 	Target: Orbital = Object
 	Icon: LaserTurret
@@ -18,8 +18,9 @@ Ability: BuyTurretL
 	ShareCooldown(BuyTurretL)
 	ShareCooldown(BuyTurretR)
 	ShareCooldown(BuyTurretM)
+	
 Ability: BuyTurretR
-	Name: Install Railgun Turret
+	Name: #ABL_TURRET_RAIL
 	Description: #ABL_TURRET_RAIL_DESC
 	Icon: RailTurret
 	Target: Orbital = Object
@@ -41,8 +42,9 @@ Ability: BuyTurretR
 	ConsumeMoney(300)
 
 	TargetFilterAllied(Orbital)
+	
 Ability: BuyTurretM
-	Name: Install Missile Turret
+	Name: #ABL_TURRET_MISSILE
 	Description: #ABL_TURRET_MISSILE_DESC
 	Target: Orbital = Object
 	Icon: MissileTurret
@@ -61,13 +63,11 @@ Ability: BuyTurretM
 	ShowMoneyValue(500)
 	ConsumeMoney(500)
 
-
-
 Ability: SpawnOrbital
 	Target: Place = Point
 	Cooldown: 120
 	Energy Cost: 250
-	Name: Construct Outpost
+	Name: #ABL_BUILD_OUTPOST
 	Description: #ABL_BUILD_OUTPOST_DESC
 	Range: 100
 	Icon: OrbitalIcons::0

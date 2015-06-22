@@ -1,4 +1,6 @@
 Subsystem: FlakCannon
+	Name: #S_FLAK
+	Description: #S_FLAK_DESC
 	BaseColor: #c5f946
 	TypeColor: #c5f946
 	Picture: TechIcons::15
@@ -23,8 +25,6 @@ Subsystem: FlakCannon
 	Hex.HP := 18 * HexSize
 	Hex.Resistance := 0.2
 	Hex.Mass := HexSize
-	Name: Flak Cannon
-	Description: #S_FLAK_DESC
 
 	FireArc := pi
 	Radius := 1.0 + (log(Size) / log(2) * 4.0)

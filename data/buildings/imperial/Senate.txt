@@ -1,4 +1,6 @@
 Building: Senate
+	Name: #F_SENATE_NAME
+	Description: #F_SENATE_DESC
 	Sprite: PoliticalStrengthIcon
 	Size: 4x4
 	Production: 10 Influence
@@ -7,7 +9,5 @@ Building: Senate
 	Base Maintenance: 400
 	Tile Maintenance: 50
 	Labor Cost: 125
-	Name: #F_SENATE_NAME
-	Description: #F_SENATE_DESC
 	Category: Infrastructure
 	RequireUnlockTag(Senate)

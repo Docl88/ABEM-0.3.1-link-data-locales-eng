@@ -1,5 +1,5 @@
 Resource: Aphrodisiac
-	Name: Tropical Paradise
+	Name: #PARADISE
 	Blurb: #PARADISE_BLURB
 	Description: #PARADISE_DESC
 	Small Icon: DesignationIcons::15

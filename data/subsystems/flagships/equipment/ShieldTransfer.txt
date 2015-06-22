@@ -1,5 +1,6 @@
 Subsystem: ShieldTransmitter
-	Name: Shield Transmitter
+	Name: #S_SHIELDTRANSMITTER
+	Description: #S_SHIELDTRANSMITTER_DESC
 	BaseColor: #38a2f9
 	Picture: SubsystemButtonArt::8
 	Elevation: 2
@@ -16,7 +17,6 @@ Subsystem: ShieldTransmitter
 	Hex.Resistance := 0.4
 	Hex.HP := 20 * HexSize
 	Hex.Mass := HexSize
-	Description: #S_SHIELDTRANSMITTER_DESC
 	Requires:
 		Command = 1
 		Power = PowerUse

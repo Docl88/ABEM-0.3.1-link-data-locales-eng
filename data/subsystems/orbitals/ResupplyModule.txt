@@ -1,5 +1,6 @@
 Subsystem: ResupplyModule
-	Name: Resupply Module
+	Name: #S_RESUPPLYMODULE
+	Description: #S_RESUPPLYMODULE_DESC
 	BaseColor: #683db8
 	TypeColor: #683db8
 	Elevation: 2
@@ -15,7 +16,6 @@ Subsystem: ResupplyModule
 	Hex.HP := 0
 
 	Hex.LaborCost := 0
-	Description: #S_RESUPPLYMODULE_DESC
 	Hook: AddRegionStatus(FastResupply)
 	Requires:
 		Command = Hexes

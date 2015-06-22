@@ -1,5 +1,6 @@
 Technology: PowerPlant
-	Name: Power Plant
+	Name: #R_BLD_POWERPLANT
+	Description: #R_BLD_POWERPLANT_DESC
 	Class: Unlock
 
 	Point Cost: 1000
@@ -7,8 +8,6 @@ Technology: PowerPlant
 
 	Icon: TechIcons::6
 	Color: #00f3ff
-	Blurb:
-	Description: #R_BLD_POWERPLANT_DESC
 
 	UnlockTag(PowerPlant)
 
@@ -16,9 +15,9 @@ Technology: PowerPlant
 	SkipOnUnlockedTag(PowerPlant)
 	SecondaryMoneyCost(1500)
 Technology: NylliPowerPlant
-	Name: Power Plant
+	Name: #R_ORB_POWERPLANT
 	Description: #R_ORB_POWERPLANT_DESC
-	Class: Unlock
+	Class: Special
 	Icon: TechIcons::6
 	Color: #00f3ff
 	Point Cost: 1000

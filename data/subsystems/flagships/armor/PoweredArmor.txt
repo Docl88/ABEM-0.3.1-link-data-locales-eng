@@ -1,5 +1,5 @@
 Subsystem: PoweredArmor
-	Name: Powered Armor
+	Name: #S_POWERED_ARMOR
 	Description: #S_POWERED_ARMOR_DESC
 	BaseColor: #a9a9b9
 	Elevation: 1

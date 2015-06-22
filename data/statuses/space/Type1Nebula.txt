@@ -1,5 +1,5 @@
 Status: Type1Nebula
-	Name: Interstellar Gas Cloud
+	Name: #NEBULA_TYPE1
 	Description: #NEBULA_TYPE1_DESC
 	Icon: VoteIcons::3
 	Color: #ff0000

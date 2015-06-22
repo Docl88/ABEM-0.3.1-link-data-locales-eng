@@ -1,5 +1,5 @@
 Subsystem: Superstructure
-	Name: Superstructure
+	Name: #S_SUPERSTRUCTURE
 	Description: #S_SUPERSTRUCTURE_DESC
 	BaseColor: #a9a9a9
 

@@ -1,5 +1,5 @@
 Hull: TyrantCorvette
-	Name: TyrantCorvette
+	Name: #TYRANTCORVETTE
 	Background: TyrantSmallBlue
 	BackgroundScale: 0.95
 	Material: TyrantSmall
@@ -12,7 +12,7 @@ Hull: TyrantCorvette
 
 /////////////////////
 Hull: TyrantFrigate
-	Name: TyrantFrigate
+	Name: #TYRANTFRIGATE
 	Background: TyrantMediumBlue
 	BackgroundScale: 0.95
 	Material: TyrantMedium
@@ -25,7 +25,7 @@ Hull: TyrantFrigate
 
 /////////////////////
 Hull: TyrantDestroyer
-	Name: TyrantDestroyer
+	Name: #TYRANTDESTROYER
 	Background: TyrantMediumBlue
 	BackgroundScale: 0.95
 	Material: TyrantMedium
@@ -38,7 +38,7 @@ Hull: TyrantDestroyer
 
 /////////////////////
 Hull: TyrantCruiser
-	Name: TyrantCruiser
+	Name: #TYRANTCRUISER
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.05
 	Material: TyrantMedium
@@ -51,7 +51,7 @@ Hull: TyrantCruiser
 
 /////////////////////
 Hull: TyrantBattlecruiser
-	Name: TyrantBattlecruiser
+	Name: #TYRANTBATTLECRUISER
 	Background: TyrantSmallBlue
 	BackgroundScale: 1.3
 	Material: TyrantSmall
@@ -64,7 +64,7 @@ Hull: TyrantBattlecruiser
 
 /////////////////////
 Hull: TyrantBattleship
-	Name: TyrantBattleship
+	Name: #TYRANTBATTLESHIP
 	Background: TyrantSmallBlue
 	BackgroundScale: 1.2
 	Material: TyrantSmall
@@ -77,7 +77,7 @@ Hull: TyrantBattleship
 
 /////////////////////
 Hull: TyrantTitan
-	Name: TyrantTitan
+	Name: #TYRANTTITAN
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.35
 	Material: TyrantMedium
@@ -90,7 +90,7 @@ Hull: TyrantTitan
 
 /////////////////////
 Hull: TyrantHeavyCarrier
-	Name: TyrantHeavyCarrier
+	Name: #TYRANTHEAVYCARRIER
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.35
 	Material: TyrantMedium
@@ -103,7 +103,7 @@ Hull: TyrantHeavyCarrier
 
 /////////////////////
 Hull: TyrantSpooky
-	Name: TyrantSpooky
+	Name: #TYRANTSPOOKY
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.35
 	Material: TyrantMediumSpooky
@@ -114,7 +114,7 @@ Hull: TyrantSpooky
 
 /////////////////////
 Hull: TyrantSpecial
-	Name: TyrantSpecial
+	Name: #TYRANTSPECIAL
 	Background: TyrantMediumBlue
 	BackgroundScale: 1.35
 	Material: TyrantMedium

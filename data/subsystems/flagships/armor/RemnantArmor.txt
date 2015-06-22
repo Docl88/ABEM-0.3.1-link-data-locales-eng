@@ -1,5 +1,6 @@
 Subsystem: RemnantArmor
-	Name: Progenitor Armor
+	Name: #S_REMNANT_ARMOR
+	Description: #S_REMNANT_ARMOR_DESC
 	BaseColor: #008888
 	Elevation: 1
 
@@ -17,7 +18,6 @@ Subsystem: RemnantArmor
 	Hex.Mass := 2 * HexSize
 
 	DamageResist := ShipSize / 30
-	Description: #S_REMNANT_ARMOR_DESC
 	ImpactLevel := 1.5*ShipSize
 	MinPct := 1/5
 

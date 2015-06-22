@@ -1,11 +1,10 @@
 Technology: DroneWeapon
-	Icon: HexagonSubsystems::9
-	Description: #R_SYS_DRONEWEAPON_DESC
 	Name: #R_SYS_DRONEWEAPON
+	Description: #R_SYS_DRONEWEAPON_DESC
+	Icon: HexagonSubsystems::9
 	Point Cost: 1500
 	Time Cost: 180
 	Class: Unlock
-	Blurb:
 	Color: #d3de07
 	ModAttribute(ProgenitorTechProgress, Add, 15)
 	RequireUnlockTag(ProgenitorTech)

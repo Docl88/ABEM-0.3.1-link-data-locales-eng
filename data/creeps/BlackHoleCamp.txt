@@ -13,8 +13,8 @@ Camp: BlackHoleCamp
 
 
 	Pickup: RemnantArmor
-		Name: Crippled Remnant Guardian
-		Description: Allows you to attempt to salvage the Guardian.
+		Name: #BLACKHOLECAMP
+		Description: #BLACKHOLECAMP_DESC
 		Model: TyrantFlagLarge
 		Material: TyrantMedium
 		Verb: #VERB_PICKUP_GUARDIAN

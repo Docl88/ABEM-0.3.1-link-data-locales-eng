@@ -1,5 +1,5 @@
 Subsystem: SupShieldGen
-	Name: Shield Generator
+	Name: #S_SUPSHIELD
 	Description: #S_SUPSHIELD_DESC
 	BaseColor: #0044db
 	Elevation: 1
@@ -20,7 +20,7 @@ Subsystem: SupShieldGen
 	Hex.Mass := 2.5 * HexSize
 	Hex.BuildCost := 2*HexSize
 	Assert: Size>=5
-		Message: Support Shield Generator must be at least size 5. Add more hexes to the generator or increase the ship's size.
+		Message: #S_SUPSHIELD_MSG
 
 	Effect: ABEMShieldDamage
 

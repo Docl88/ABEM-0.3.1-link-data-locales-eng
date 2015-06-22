@@ -1,5 +1,5 @@
 Status: Economic
-	Name: Pretiosian Nebula
+	Name: #NEBULA_ECONOMIC
 	Description: #NEBULA_ECONOMIC_DESC
 	Icon: ResourceIcons::30 * #00aa00
 	Color: #00aa00

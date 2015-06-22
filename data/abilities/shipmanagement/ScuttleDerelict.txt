@@ -1,5 +1,5 @@
 Ability: ScuttleDerelict
-	Name: Scuttle Derelict Ship
+	Name: #ABL_SCUTTLEDERELICT
 	Description: #ABL_SCUTTLEDERELICT_DESC
 	Icon: Explosion_color
 	

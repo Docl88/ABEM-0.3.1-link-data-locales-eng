@@ -1,10 +1,10 @@
 Technology: ZeroPoint
-	Name: Singularity Core
+	Name: #R_SYS_ZPG
+	Description: #R_SYS_ZPG_DESC
 	Class: Unlock
 	Point Cost: 2000
 	Time Cost: 180
 	Icon: ZeroPoint
-	Description: #R_SYS_ZPG_DESC
 	Color: #24ff99
 	ModAttribute(ProgenitorTechProgress, Add, 10)
 	SkipOnUnlockedSubsystem(ZeroPoint)

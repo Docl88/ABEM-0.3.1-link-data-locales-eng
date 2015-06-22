@@ -1,9 +1,9 @@
 Anomaly: SubsystemsUpgrade
-	Name: Equipment Stash
+	Name: #A_SUBSYSTEMSUPGRADE
+	Description: #A_SUBSYSTEMSUPGRADE_DESC
 	Frequency: 0
 	Model: Depot
 	Material: VolkurGenericPBR
-	Description: If you see this, there is something terribly wrong with this anomaly. Contact one of ABEM's developers and tell them how you caused this text to appear.
 	Option: Weapons
 		Icon: FusionTorpedo
 		Description: #A_EQUIPMENTSTASH_WEAPONS

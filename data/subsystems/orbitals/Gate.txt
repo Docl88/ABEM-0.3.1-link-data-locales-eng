@@ -1,5 +1,6 @@
 Subsystem: GateCore
 	Name: #ORB_GATE_CORE
+	Description: #S_GATE_CORE_DESC
 	BaseColor: #595783
 	TypeColor: #595783
 	Elevation: 2
@@ -14,7 +15,6 @@ Subsystem: GateCore
 	Hex.Resistance := 0
 
 
-	Description: #S_GATE_CORE_DESC
 	Hex.HP := 0
 	Hook: IsGate()
 	Effect: FTLUpkeep

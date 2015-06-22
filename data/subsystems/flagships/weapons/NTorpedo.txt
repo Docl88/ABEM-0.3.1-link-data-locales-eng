@@ -1,6 +1,6 @@
 Subsystem: NuclearTorpedo
-	Name: Nuclear Torpedo Launcher
-	Description: Launches massive, slow-moving, guided bombs. These bombs explode in an area around their target.
+	Name: #S_NUCLEARTORPEDO
+	Description: #S_NUCLEARTORPEDO_DESC
 	BaseColor: #7946f9
 	TypeColor: #7946f9
 	Picture: SubsystemButtonArt::4

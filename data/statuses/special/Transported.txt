@@ -1,6 +1,0 @@
-Status: Transported
-	Name: #STATUS_TRANSPORTED
-	Description: #STATUS_TRANSPORTED_DESC
-	Icon: TechModIcons::3*#6cff11
-	Unique: True
-	AddFleetEffectiveness(-0.5)
